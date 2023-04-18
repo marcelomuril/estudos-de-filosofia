@@ -1,112 +1,114 @@
 img {
-    border: 2px solid #253659;
-    padding: 5;
+  border: 2px solid #253659;
+  padding: 5;
 }
 body {
-    font-family: Arial, sans-serif;
-    background-color: #3F96FA
-    color: #faf7f7;}
+  font-family: Arial, sans-serif;
+  background-color: #3F96FA;
+  color: #faf7f7;}
+
+header {
+  background-color:#AD342A;
+  color: white;
+  padding: 2
   
-  header {
-    background-color: #AD342A;
-    color: white;
-    padding: 2
-    
-    
-  }
-  header img {
-    float: left;;
-    margin-right: 100x;
-    height: 100px;
-    padding: 2px;
   
-    
-  }
-  header h1 {
-    display: inline-block;
-    
-    
-  }
-  h1 {
-    margin-bottom: 25px;
-  }
-  header nav {
-    float: right;
-    padding-top:50px;
+}
+header img {
+  float: left;;
+  margin-right: 100x;
+  height: 100px;
+  padding: 2px;
 
-
-  }
-  header a {
-    color: white;
-    text-decoration:none;
-    padding: 5px;
-    border: 2px solid #f4eeee;
-    
-
-  }
-
-    .ontologia { 
-        background-color:  #283e69;
-        color: white;
-        padding: 13px;}
-      
-        
-    .epistemologia {
-        background-color: #03A696;
-        color: white;
-        padding: 13px;
-      
-     
-        
-    }
-    .etica {
-        background-color: #04BF9D;
-        color: white;
-        padding: 13px;
-        
-    }
-    .politica {
-        background-color: #F27457;
-        color: white;
-        padding: 13px;
-      
-        
-    }
-    .estetica {
-        background-color: #BF665E;
-        color: white;
-        padding: 13px;
-        
-    }
-    .logica {
-        background-color: #F2668B;
-        color: white;
-        padding: 13px;
-    }
-    .ciencia {
-        background-color: #E84A2C;
-        color: white;
-        padding: 13px;
-      
-        
-    }
-    .linguagem {
-        background-color: #3596DB;
-        color: white;
-        padding: 13px;
-        
-    
-    }
-
-footer{
-    border-top: 2px solid #f4eeee;
+  
+}
+header h1 {
+  display: inline-block;
+  
+  
 }
 h1 {
-    
-    padding: 10px;
-    border:2px solid #f4eeee
+  margin-bottom: 25px;
 }
- a {
-  padding: 12px;
+header nav {
+  float: right;
+  padding-top:50px;
+
+
+}
+header a {
+  color: white;
+  text-decoration:none;
+  padding: 5px;
+  border: 2px solid #f4eeee;
   
- }
+
+}
+
+  .ontologia { 
+      background-color:  #283e69;
+      color: white;
+      padding: 13px;}
+    
+  
+      
+  .epistemologia {
+      background-color: #03A696;
+      color: white;
+      padding: 13px;
+      
+    
+   
+      
+  }
+  .etica {
+      background-color: #04BF9D;
+      color: white;
+      padding: 13px;
+      
+  }
+  .politica {
+      background-color: #F27457;
+      color: white;
+      padding: 13px;
+    
+      
+  }
+  .estetica {
+      background-color: #BF665E;
+      color: white;
+      padding: 13px;
+      
+  }
+  .logica {
+      background-color: #F2668B;
+      color: white;
+      padding: 13px;
+  }
+  .ciencia {
+      background-color: #E84A2C;
+      color: white;
+      padding: 13px;
+    
+      
+  }
+  .linguagem {
+      background-color: #3596DB;
+      color: white;
+      padding: 13px;
+      
+  
+  }
+
+footer{
+  border-top: 2px solid #f4eeee;
+}
+h1 {
+  
+  padding: 10px;
+  border:2px solid #f4eeee
+}
+a {
+padding: 12px;
+
+}
